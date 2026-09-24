@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "ulo-leontief: Dynamic Leontief Model with Flexible Accelerator — The Case of Vehicle Recycling Fee in Russia"
+version: 1.0.0
+date-released: 2026-09-24
+authors:
+  - family-names: "Luchin"
+    given-names: "Alex"
+    orcid: "https://orcid.org/0009-0006-8972-0945"
+license: MIT
+repository-code: "https://github.com/AlexLuchin/ulo-leontief"
+url: "https://github.com/AlexLuchin/ulo-leontief"
+doi: "10.5281/zenodo.XXXXXXX"
+keywords:
+  - "input-output"
+  - "Leontief model"
+  - "dynamic model"
+  - "flexible accelerator"
+  - "vehicle recycling fee"
+  - "utilization fee"
+  - "утилизационный сбор"
+  - "межотраслевой баланс"
+  - "Russia"
+abstract: >
+  A dynamic input-output Leontief model with a flexible accelerator for
+  analyzing the macroeconomic impact of the vehicle recycling fee hike in
+  Russia. The model removes the pathological instability of the classical
+  Leontief dynamic model and provides quantitatively different adaptation
+  times across policy scenarios (growth, stagnation, crisis). Empirical
+  calibration uses the 2021 Russian input-output tables published by Rosstat.
