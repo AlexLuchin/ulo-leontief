@@ -1,4 +1,4 @@
-# ulo-leontief
+﻿# ulo-leontief
 
 **Dynamic Leontief Model with Flexible Accelerator: The Case of Vehicle Recycling Fee in Russia**
 
@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22954178.svg)](https://doi.org/10.5281/zenodo.22954178)
 
 ---
 
@@ -173,7 +173,7 @@ BibTeX:
                    Flexible Accelerator},
       year      = {2026},
       publisher = {Zenodo},
-      doi       = {10.5281/zenodo.XXXXXXX},
+      doi       = {10.5281/zenodo.22954178},
       url       = {https://github.com/AlexLuchin/ulo-leontief}
     }
 

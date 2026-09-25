@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+﻿cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "ulo-leontief: Dynamic Leontief Model with Flexible Accelerator — The Case of Vehicle Recycling Fee in Russia"
@@ -11,7 +11,7 @@ authors:
 license: MIT
 repository-code: "https://github.com/AlexLuchin/ulo-leontief"
 url: "https://github.com/AlexLuchin/ulo-leontief"
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.22954178"
 keywords:
   - "input-output"
   - "Leontief model"
